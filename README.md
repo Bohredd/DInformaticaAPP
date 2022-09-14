@@ -1,5 +1,5 @@
 # DInformaticaAPP
-Aplicativo Feito com o intuito de estudar novas bibliotecas e a conexão com BD
+Aplicativo Feito com o intuito de estudar novas bibliotecas e a conexão com BD \n
 
 As bibliotecas utilizadas como um novo estudo foram:
 -TKINTER
